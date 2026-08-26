@@ -27,9 +27,9 @@ An automated Python bot that fetches real-time financial market data via RESTful
    ```
 
  3. **Configure Environment Variables:**
-   ```
+
    Update BOT_TOKEN and CHAT_ID inside bot.py with your Telegram credentials from @BotFather and @userinfobot.
-   ```
+   
   
   4. **Run the Application:**
 
