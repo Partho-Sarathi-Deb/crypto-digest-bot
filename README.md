@@ -35,4 +35,3 @@ An automated Python bot that fetches real-time financial market data via RESTful
     ```bash
     python bot.py
     ```
-    
