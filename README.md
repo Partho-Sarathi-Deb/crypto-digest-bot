@@ -17,7 +17,7 @@ An automated Python bot that fetches real-time financial market data via RESTful
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/crypto-digest-bot.git](https://github.com/YOUR_USERNAME/crypto-digest-bot.git)
+   git clone [https://github.com/YOUR_USERNAME/crypto-digest-bot.git](https://github.com/Partho-Sarathi-Deb/crypto-digest-bot.git)
    cd crypto-digest-bot
    ```
 
@@ -33,6 +33,6 @@ An automated Python bot that fetches real-time financial market data via RESTful
   
   4. **Run the Application:**
 
-    ```bash
+    ```
     python bot.py
     ```
